@@ -1,0 +1,45 @@
+=================================
+Algorithm: Selection Sort
+Stable: No
+Original: 10 20 30 40 50 10 20 30 40 50 
+Ascending: 10 10 20 20 30 30 40 40 50 50 
+Comparisons: 55 | Swaps: 6
+Descending: 50 50 40 40 30 30 20 20 10 10 
+Comparisons: 55 | Swaps: 7
+=================================
+=================================
+Algorithm: Bubble Sort
+Stable: Yes
+Original: 10 20 30 40 50 10 20 30 40 50 
+Ascending: 10 10 20 20 30 30 40 40 50 50 
+Comparisons: 35 | Swaps: 10
+Descending: 50 50 40 40 30 30 20 20 10 10 
+Comparisons: 45 | Swaps: 30
+=================================
+=================================
+Algorithm: Insertion Sort
+Stable: Yes
+Original: 10 20 30 40 50 10 20 30 40 50 
+Ascending: 10 10 20 20 30 30 40 40 50 50 
+Comparisons: 19 | Swaps: 10
+Descending: 50 50 40 40 30 30 20 20 10 10 
+Comparisons: 39 | Swaps: 30
+=================================
+=================================
+Algorithm: Merge Sort
+Stable: Yes
+Original: 10 20 30 40 50 10 20 30 40 50 
+Ascending: 10 10 20 20 30 30 40 40 50 50 
+Comparisons: 19 | Swaps: 4
+Descending: 50 50 40 40 30 30 20 20 10 10 
+Comparisons: 23 | Swaps: 18
+=================================
+=================================
+Algorithm: Quick Sort
+Stable: No
+Original: 10 20 30 40 50 10 20 30 40 50 
+Ascending: 10 10 20 20 30 30 40 40 50 50 
+Comparisons: 25 | Swaps: 25
+Descending: 50 50 40 40 30 30 20 20 10 10 
+Comparisons: 29 | Swaps: 15
+=================================

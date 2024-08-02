@@ -1,0 +1,45 @@
+=================================
+Algorithm: Selection Sort
+Stable: No
+Original: 1 
+Ascending: 1 
+Comparisons: 1 | Swaps: 0
+Descending: 1 
+Comparisons: 1 | Swaps: 0
+=================================
+=================================
+Algorithm: Bubble Sort
+Stable: Yes
+Original: 1 
+Ascending: 1 
+Comparisons: 0 | Swaps: 0
+Descending: 1 
+Comparisons: 0 | Swaps: 0
+=================================
+=================================
+Algorithm: Insertion Sort
+Stable: Yes
+Original: 1 
+Ascending: 1 
+Comparisons: 0 | Swaps: 0
+Descending: 1 
+Comparisons: 0 | Swaps: 0
+=================================
+=================================
+Algorithm: Merge Sort
+Stable: Yes
+Original: 1 
+Ascending: 1 
+Comparisons: 0 | Swaps: 0
+Descending: 1 
+Comparisons: 0 | Swaps: 0
+=================================
+=================================
+Algorithm: Quick Sort
+Stable: No
+Original: 1 
+Ascending: 1 
+Comparisons: 0 | Swaps: 0
+Descending: 1 
+Comparisons: 0 | Swaps: 0
+=================================
